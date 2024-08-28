@@ -3,9 +3,8 @@
 
 ## 插件下载&使用方法如下图
 <div align="center">
-  <img alt="V3 Admin Vite Logo" width="500" height="280" src="./0.png">
-  <img alt="V3 Admin Vite Logo" width="500" height="330" src="./1.png">
-</div>
+  <img alt="WOT" width="600" height="300" src="./0.png">
+  </div>
 
 ## 下载res_mods 文件夹后，替换游戏文件中的文件夹
 
